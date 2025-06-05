@@ -70,6 +70,9 @@ body{
     width:26rem;
     background-color: var(--negroBotones);
     border-radius:0.5rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
 .red-social{
     font-size:1.1rem;
